@@ -1,5 +1,5 @@
-# Spacegray Dark UI theme
+# Solarized Dark UI theme
 
-Port of the [Spacegray](http://kkga.github.io/spacegray) Sublime Text theme to Atom.
+Based on [Spacegray Dark UI](https://github.com/cannikin/spacegray-dark-ui) Atom theme.
 
-![screenshot](http://ridingtheclutch.com.s3.amazonaws.com/images/spacegray.png)
+![screenshot](https://raw.github.com/Rnhmjoj/solarized-dark-ui/master/screenshot.png)
