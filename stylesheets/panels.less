@@ -11,8 +11,6 @@
 .tool-panel {
   .text(normal);
   position: relative;
-  height: 36px;
-  line-height: 36px;
   background-color: @tool-panel-background-color;
 }
 
@@ -42,4 +40,9 @@
     @text: lighten(@text-color, 10%);
     .btn-background(@bg, @hover, @selected, @text);
   }
+}
+
+.status-bar {
+    height: 36px;
+    line-height: 36px;
 }
