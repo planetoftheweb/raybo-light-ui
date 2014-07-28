@@ -1,7 +1,7 @@
 {
   "name": "solarized-light-ui",
   "theme": "ui",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Solarized light UI theme for Atom",
   "license": "MIT",
   "repository": "https://github.com/pierreozoux/solarized-light-ui",
