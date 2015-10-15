@@ -1,4 +1,4 @@
-# Solarized Light UI theme
+# Raybo Light UI theme
 
 When I used Sublime Text, I had my own version of the [solarized] theme because I wanted to improve on it's contrast a bit and add some markdown features. I wanted to duplicate that in Atom, so I found a great UI theme from [Pierrezoux] and decided to tweak it from there for my own use.
 
